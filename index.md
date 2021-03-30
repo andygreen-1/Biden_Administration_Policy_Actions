@@ -4,4 +4,4 @@
 
 <br>
 
-*You can also see the same information in spreadsheet form* [*here*](https://docs.google.com/spreadsheets/d/1-fpsf5ETwbPBGUgl85pAY2X2dz3MtTj4dpuXNO_qq4k/edit#gid=0).
+*You can also see the full list of policy actions in spreadsheet form* [*here*](https://docs.google.com/spreadsheets/d/1-fpsf5ETwbPBGUgl85pAY2X2dz3MtTj4dpuXNO_qq4k/edit#gid=0).
