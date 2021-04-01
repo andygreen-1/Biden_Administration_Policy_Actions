@@ -1,3 +1,5 @@
+<br>
+
 This page contains a series of visualizations tracking policy actions taken by the Biden administration. Actions include, but are not limited to: making a statement in support of a given policy, taking administrative action, issuing executive orders, and acting upon legislation.
 
 <br>
@@ -18,15 +20,21 @@ In support of these goals, there are four resources that are available on this p
   - I provide further detail on the process of how actions are collected, organized, and classified in the appendix at the end of this page.
   - The visualization is updated weekly on Sunday.
 
+<br>
+
 2. “Word Cloud by Policy Category” – a visual representation of the words that appear in headlines about policy actions taken by the Biden administration, organized by policy category.
   - The size of each word is determined by the number of times it appears in headlines about policy actions in a given policy category (amongst the headlines that are in my dataset). This means that the same word can appear multiple times if it is used frequently in headlines spanning multiple categories (e.g., “Trump” appears under immigration, foreign policy, COVID-19, etc.). 
   - The visualization is dynamic and interactive, allowing the user to select/deselect any combination of policy categories, and to adjust the minimum term frequency (e.g., only showing words that appear at least 3 times in headlines about a given policy category).
   - I provide further detail on the preprocessing steps used to prepare the text data for analysis in the appendix at the end of this page.
   - The visualization is updated weekly on Sunday.
 
+<br>
+
 3. “Count of Actions by Policy Category” – a visual representation of the total count of actions by policy category.
   - Further context on how actions are classified into policy categories is available in the appendix at the end of this page.
   - The visualization is updated weekly on Sunday.
+
+<br>
 
 4. Spreadsheet of all recorded policy actions, which is the underlying source data for all of the above visualizations.
   - The spreadsheet can be found [here](https://docs.google.com/spreadsheets/d/1-fpsf5ETwbPBGUgl85pAY2X2dz3MtTj4dpuXNO_qq4k/edit#gid=0).
@@ -59,7 +67,7 @@ One key component of the classification process is classifying an action by poli
 The other major component of the classification process is classifying an observation by action type. Here is a description of how I think about the different action types:
 
 - Administrative
-  -I use this category to capture actions that are attributed to the Biden administration, but are carried out by a department or agency (as opposed to the Executive Office of the President).
+  - I use this category to capture actions that are attributed to the Biden administration, but are carried out by a department or agency (as opposed to the Executive Office of the President).
 - Executive
   - I use this category to capture executive orders and other actions that come directly from the Executive Office of the President.
 - Judicial
