@@ -1,5 +1,7 @@
 <br>
 
+### Introduction
+
 This page contains a series of visualizations tracking policy actions taken by the Biden administration. Actions include, but are not limited to: making a statement in support of a given policy, taking administrative action, issuing executive orders, and acting upon legislation.
 
 <br>
@@ -36,7 +38,10 @@ In support of these goals, there are four resources that are available on this p
 - Spreadsheet of all recorded policy actions, which is the underlying source data for all of the above visualizations.
   - The spreadsheet can be found [here](https://docs.google.com/spreadsheets/d/1-fpsf5ETwbPBGUgl85pAY2X2dz3MtTj4dpuXNO_qq4k/edit#gid=0).
   - The spreadsheet is updated on a daily basis as I come across new articles/actions.
+
 <br>
+
+### Visualizations
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Biden_Administration_Policy_Actions/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '2000' scrolling='no' ></iframe>
 
@@ -45,7 +50,7 @@ In support of these goals, there are four resources that are available on this p
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Biden_Administration_Policy_Actions/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '900' scrolling='no' ></iframe>
 
 
-**Appendix A: Data Collection and Classification**
+### Appendix A: Data Collection and Classification
 
 The process of collecting and classifying articles about policy actions is entirely manual. I discover articles in the course of my regular news consumption, decide whether they warrant inclusion, and then classify them by policy category and action type. This process – as opposed to something more automated – comes with pros and cons. On the plus side, it results in a thorough but curated dataset, where any given action is represented by a single article without significant duplication. Additionally, while the classification into policy categories and action types is necessarily subjective, it’s likely to be far more accurate than would be the case from relying on a machine learning classification model. However, the manual nature of the process means the dataset is inherently non-exhaustive. An action must be deemed significant enough to receive media attention from a major publication, and then it has to be something I come across in the course of my media consumption.
 
@@ -81,7 +86,7 @@ The other major component of the classification process is classifying an observ
 
 <br>
 
-**Appendix B: Preprocessing Steps for the Word Cloud Visualization**
+### Appendix B: Preprocessing Steps for the Word Cloud Visualization
 
 I employ a fairly standard set of preprocessing techniques to prepare the text data for the word cloud visualization. Working with just the headline text from each article, I complete the following steps:
 
