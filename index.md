@@ -6,10 +6,14 @@
 
 This page contains a series of visualizations tracking policy actions taken by the Biden administration. Actions include, but are not limited to: making a statement in support of a given policy, taking administrative action, issuing executive orders, and acting upon legislation.
 
+<br>
+
 I started this project with two primary use cases in mind:
 
 - To serve as a resource for people who want to stay in the loop with what the new administration is doing policy-wise, but don’t have the time to monitor the news closely week in and week out
 - To develop a unique dataset that could be useful to researchers in the future
+
+<br>
 
 In support of these goals, there are four resources that are available on this page:
 
