@@ -19,27 +19,20 @@ In support of these goals, there are four resources that are available on this p
   - The visualization is dynamic and interactive, allowing the user to select/deselect any combination of policy categories or action types. 
   - I provide further detail on the process of how actions are collected, organized, and classified in the appendix at the end of this page.
   - The visualization is updated weekly on Sunday.
-
 <br>
-
 - “Word Cloud by Policy Category” – a visual representation of the words that appear in headlines about policy actions taken by the Biden administration, organized by policy category.
   - The size of each word is determined by the number of times it appears in headlines about policy actions in a given policy category (amongst the headlines that are in my dataset). This means that the same word can appear multiple times if it is used frequently in headlines spanning multiple categories (e.g., “Trump” appears under immigration, foreign policy, COVID-19, etc.). 
   - The visualization is dynamic and interactive, allowing the user to select/deselect any combination of policy categories, and to adjust the minimum term frequency (e.g., only showing words that appear at least 3 times in headlines about a given policy category).
   - I provide further detail on the preprocessing steps used to prepare the text data for analysis in the appendix at the end of this page.
   - The visualization is updated weekly on Sunday.
-
 <br>
-
 - “Count of Actions by Policy Category” – a visual representation of the total count of actions by policy category.
   - Further context on how actions are classified into policy categories is available in the appendix at the end of this page.
   - The visualization is updated weekly on Sunday.
-
 <br>
-
 - Spreadsheet of all recorded policy actions, which is the underlying source data for all of the above visualizations.
   - The spreadsheet can be found [here](https://docs.google.com/spreadsheets/d/1-fpsf5ETwbPBGUgl85pAY2X2dz3MtTj4dpuXNO_qq4k/edit#gid=0).
   - The spreadsheet is updated on a daily basis as I come across new articles/actions.
-
 <br>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Biden_Administration_Policy_Actions/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '2000' scrolling='no' ></iframe>
