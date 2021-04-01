@@ -13,7 +13,7 @@ I started this project with two primary use cases in mind:
 
 In support of these goals, there are four resources that are available on this page:
 
-1. “Biden Administration Policy Actions” – the primary dashboard that contains a visual representation of policy actions taken by the Biden administration.
+- “Biden Administration Policy Actions” – the primary dashboard that contains a visual representation of policy actions taken by the Biden administration.
   - Each observation represents an article from a major media organization describing a particular policy action. You can see the article’s headline (which serves as a short description of the action), the outlet that published it, and the date it was published by hovering over an observation. If you click on the observation, a link to the article is provided in the tooltip (“Read More”).
   - Actions are grouped by policy category (e.g., COVID-19, economic policy, immigration, etc.), and the shape indicates the type of action taken (e.g., executive, legislative, judicial, etc.).
   - The visualization is dynamic and interactive, allowing the user to select/deselect any combination of policy categories or action types. 
@@ -22,7 +22,7 @@ In support of these goals, there are four resources that are available on this p
 
 <br>
 
-2. “Word Cloud by Policy Category” – a visual representation of the words that appear in headlines about policy actions taken by the Biden administration, organized by policy category.
+- “Word Cloud by Policy Category” – a visual representation of the words that appear in headlines about policy actions taken by the Biden administration, organized by policy category.
   - The size of each word is determined by the number of times it appears in headlines about policy actions in a given policy category (amongst the headlines that are in my dataset). This means that the same word can appear multiple times if it is used frequently in headlines spanning multiple categories (e.g., “Trump” appears under immigration, foreign policy, COVID-19, etc.). 
   - The visualization is dynamic and interactive, allowing the user to select/deselect any combination of policy categories, and to adjust the minimum term frequency (e.g., only showing words that appear at least 3 times in headlines about a given policy category).
   - I provide further detail on the preprocessing steps used to prepare the text data for analysis in the appendix at the end of this page.
@@ -30,13 +30,13 @@ In support of these goals, there are four resources that are available on this p
 
 <br>
 
-3. “Count of Actions by Policy Category” – a visual representation of the total count of actions by policy category.
+- “Count of Actions by Policy Category” – a visual representation of the total count of actions by policy category.
   - Further context on how actions are classified into policy categories is available in the appendix at the end of this page.
   - The visualization is updated weekly on Sunday.
 
 <br>
 
-4. Spreadsheet of all recorded policy actions, which is the underlying source data for all of the above visualizations.
+- Spreadsheet of all recorded policy actions, which is the underlying source data for all of the above visualizations.
   - The spreadsheet can be found [here](https://docs.google.com/spreadsheets/d/1-fpsf5ETwbPBGUgl85pAY2X2dz3MtTj4dpuXNO_qq4k/edit#gid=0).
   - The spreadsheet is updated on a daily basis as I come across new articles/actions.
 
