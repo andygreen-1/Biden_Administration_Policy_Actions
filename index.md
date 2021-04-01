@@ -1,6 +1,8 @@
 <br>
 
-### Introduction
+## Introduction
+
+<br>
 
 This page contains a series of visualizations tracking policy actions taken by the Biden administration. Actions include, but are not limited to: making a statement in support of a given policy, taking administrative action, issuing executive orders, and acting upon legislation.
 
@@ -41,7 +43,7 @@ In support of these goals, there are four resources that are available on this p
 
 <br>
 
-### Visualizations
+## Visualizations
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Biden_Administration_Policy_Actions/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '2000' scrolling='no' ></iframe>
 
