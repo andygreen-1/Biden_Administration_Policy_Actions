@@ -26,9 +26,13 @@ The second visualization provides a visual representation of the words that have
 
 The visualization is dynamic and interactive, allowing you to select/deselect any combination of policy categories, and to adjust the minimum term frequency (e.g., only showing words that appear at least 3 times in headlines about a given policy category).
 
+<br>
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BAPA_terms/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '900' scrolling='no' ></iframe>
 
 Finally, the third visualization shows the total count of actions by policy category.
+
+<br>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Biden_Administration_Policy_Actions/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '900' scrolling='no' ></iframe>
 
