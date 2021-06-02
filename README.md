@@ -1,5 +1,5 @@
-# Biden Administration Policy Actions
+# Biden Administration Policy Tracking Project
 
-A series of visualizations tracking policy actions taken by the Biden administration. Actions include, but are not limited to: making a statement in support of a given policy, taking administrative action, issuing executive orders, and acting upon legislation.
+The Biden Administration Policy Tracking Project aims to record, summarize, and visualize policy actions taken by the Biden administration. This includes actions like releasing a new policy proposal, issuing executive orders, and working with Congress to pass legislation.
 
-You can see the visualizations [here](https://andygreen-1.github.io/Biden_Administration_Policy_Actions/).
+You can see the project page [here](https://andygreen-1.github.io/Biden_Administration_Policy_Actions/).
