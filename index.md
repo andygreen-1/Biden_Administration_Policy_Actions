@@ -34,7 +34,7 @@ Finally, the third visualization shows the total count of actions by policy cate
 
 <br>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Biden_Administration_Policy_Actions/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '875' scrolling='no' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Biden_Administration_Policy_Actions/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '850' scrolling='no' ></iframe>
 
 
 ## Data Collection and Classification
