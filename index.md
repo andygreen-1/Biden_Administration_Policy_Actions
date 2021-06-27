@@ -28,7 +28,7 @@ The visualization is dynamic and interactive, allowing you to select/deselect an
 
 <br>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BAPA_terms/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '900' scrolling='no' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BAPA_terms/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '850' scrolling='no' ></iframe>
 
 Finally, the third visualization shows the total count of actions by policy category.
 
