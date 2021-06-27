@@ -20,7 +20,7 @@ The first dashboard provides a visual representation of policy actions taken by 
 
 Actions are grouped by policy category (e.g., COVID-19, economic policy, or immigration), and are arranged sequentially over time, with actions occurring in the same week stacked vertically. The shape of an observation indicates the type of action taken (e.g., executive, administrative, or legislative). The visualization is dynamic and interactive, allowing you to select/deselect any combination of policy categories or action types using the functionality on the right side of the dashboard.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Biden_Administration_Policy_Actions/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '2100' scrolling='no' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Biden_Administration_Policy_Actions/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '2000' scrolling='no' ></iframe>
 
 The second visualization provides a visual representation of the words that have been used most frequently to describe the administration’s policy actions. The size of each word is determined by the number of times it appears in headlines about policy actions in a given policy category. This means that the same word can appear multiple times if it is used frequently in headlines spanning multiple categories (e.g., “Trump” appears under immigration, foreign policy, COVID-19, and more).
 
@@ -28,13 +28,13 @@ The visualization is dynamic and interactive, allowing you to select/deselect an
 
 <br>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/BAPA_terms/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '900' scrolling='no' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/BAPA_terms/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '800' scrolling='no' ></iframe>
 
 Finally, the third visualization shows the total count of actions by policy category.
 
 <br>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Biden_Administration_Policy_Actions/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '900' scrolling='no' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Biden_Administration_Policy_Actions/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '800' scrolling='no' ></iframe>
 
 
 ## Data Collection and Classification
