@@ -85,9 +85,3 @@ Further, the fact that each action has already been assigned a policy category p
 Of course, the manual nature of the data collection process comes with drawbacks as well. Most notably, this ensures that the dataset will be non-exhaustive. Inevitably, there will be actions that the administration takes that do not receive media coverage, and even more actions that do receive media coverage, but do not come across my radar. This process involves the biases of what the media chooses to cover, the biases baked into social media and search algorithms that determine what articles I discover, and my own biases and shortcomings in filtering and recording actions.
 
 Additionally, my process for classifying an action by policy category and action type is inherently subjective. The way I think about classifying actions along these dimensions will undoubtedly be different than others, and thus may not line up cleanly with other datasets or bodies of work.
-
-<br>
-
-<br>
-
-*The project is a work in progress, and I welcome any feedback. You can contact me on [LinkedIn](https://www.linkedin.com/in/andykgreen/), or find out more about me and my work on my [personal website](https://andykgreen.com/).*
