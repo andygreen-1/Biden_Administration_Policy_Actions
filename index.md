@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Biden Administration Policy Tracking Project aims to record, summarize, and visualize policy actions taken by the Biden administration. This includes actions like releasing a new policy proposal, issuing executive orders, and working with Congress to pass legislation.
+The Biden Administration Policy Tracking Project aims to record, summarize, and visualize policy actions taken by the Biden administration. Policy actions include, but are not limited to: making a statement in support of a given policy, taking administrative action, issuing executive orders, and acting upon legislation.
 
 I started this project with a few different use cases in mind. First, it may be a helpful resource for people who want to stay in the loop with what the new administration is doing policy-wise, but don’t have the time to constantly monitor the news. These users may find it interesting to check out the dashboard titled “Biden Administration Policy Actions”, where you can see a collection of recent actions grouped by policy category (e.g., COVID-19, economic policy, or immigration).
 
