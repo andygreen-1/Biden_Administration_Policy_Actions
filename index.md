@@ -2,13 +2,13 @@
 
 ## Introduction
 
-The Biden Administration Policy Tracking Project aims to record, summarize, and visualize policy actions taken by the Biden administration. Policy actions include, but are not limited to: making a statement in support of a given policy, taking administrative action, issuing executive orders, and acting upon legislation.
+The Biden Administration Policy Tracking Project is a nonpartisan effort to record, summarize, and visualize policy actions taken by the Biden administration. Policy actions include, but are not limited to: making a statement in support of a given policy, taking administrative action, issuing executive orders, and acting upon legislation.
 
-I started this project with a few different use cases in mind. First, it may be a helpful resource for people who want to stay in the loop with what the new administration is doing policy-wise, but don’t have the time to constantly monitor the news. These users may find it interesting to check out the dashboard titled “Biden Administration Policy Actions”, where you can see a collection of recent actions grouped by policy category (e.g., COVID-19, economic policy, or immigration).
+I started this project with a few different use cases in mind. First, it may be a helpful resource for people who want to stay informed about what the Biden administration is doing policy-wise, but don’t have the time to constantly monitor the news. These users may find it interesting to explore the three interactive dashboards below.
 
 Additionally, the project may be a useful resource for reporters and other policy-focused writers to help keep track of all of the newsworthy actions that the administration has taken in a given policy area. These users may benefit from working directly with the [underlying data](https://docs.google.com/spreadsheets/d/1-fpsf5ETwbPBGUgl85pAY2X2dz3MtTj4dpuXNO_qq4k/edit#gid=0) that I’ve collected, using the filters to drill down on actions by policy category, date, and/or the type of action (e.g., executive, administrative, or legislative).
 
-Finally, the dataset as a whole may present unique research opportunities for political scientists, data scientists, and researchers more broadly. These users may prefer to download the full [dataset](https://docs.google.com/spreadsheets/d/1-fpsf5ETwbPBGUgl85pAY2X2dz3MtTj4dpuXNO_qq4k/edit#gid=0) and analyze it as they see fit.
+Further, the dataset as a whole may present unique research opportunities for political scientists, data scientists, and researchers more broadly. These users may prefer to download the full [dataset](https://docs.google.com/spreadsheets/d/1-fpsf5ETwbPBGUgl85pAY2X2dz3MtTj4dpuXNO_qq4k/edit#gid=0) and analyze it as they see fit.
 
 The next section of this page contains a series of visualizations exploring policy actions taken by the Biden administration, along with brief descriptions of each. After that, I discuss the data collection and classification process in more detail. Finally, I close with a brief discussion of the dataset’s strengths and weaknesses.
 
@@ -85,3 +85,22 @@ Further, the fact that each action has already been assigned a policy category p
 Of course, the manual nature of the data collection process comes with drawbacks as well. Most notably, this ensures that the dataset will be non-exhaustive. Inevitably, there will be actions that the administration takes that do not receive media coverage, and even more actions that do receive media coverage, but do not come across my radar. This process involves the biases of what the media chooses to cover, the biases baked into social media and search algorithms that determine what articles I discover, and my own biases and shortcomings in filtering and recording actions.
 
 Additionally, my process for classifying an action by policy category and action type is inherently subjective. The way I think about classifying actions along these dimensions will undoubtedly be different than others, and thus may not line up cleanly with other datasets or bodies of work.
+
+<br>
+
+***
+
+<br>
+
+## Housekeeping Notes
+
+The Biden Administration Policy Tracking Project is a nonpartisan effort and does not take a stance on the administration's policy actions.
+
+Additionally, the project is something that I work on in my free time; it is not associated with any organization that I am affiliated with.
+
+If you'd like to reference the project or use the underlying data in your work, please use the suggested citation below:
+
+Green, A. (2021). [Biden Administration Policy Tracking Project](https://andygreen-1.github.io/Biden_Administration_Policy_Actions/). 
+
+You can find more information about me and my work [here](https://andykgreen.com/).
+
