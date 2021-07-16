@@ -102,5 +102,6 @@ If you'd like to reference the project or use the underlying data in your work, 
 
 Green, A. (2021). [Biden Administration Policy Tracking Project](https://andygreen-1.github.io/Biden_Administration_Policy_Actions/). 
 
-You can find more information about me and my work [here](https://andykgreen.com/).
+
+*You can find more information about me and my work [here](https://andykgreen.com/).*
 
