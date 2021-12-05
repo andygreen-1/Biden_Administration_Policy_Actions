@@ -100,7 +100,7 @@ Additionally, the project is something that I work on in my free time; it is not
 
 If you'd like to reference the project or use the underlying data in your work, please use the suggested citation below:
 
-Green, A. (2021). [Biden Administration Policy Tracking Project](https://andygreen-1.github.io/Biden_Administration_Policy_Actions/). 
+Green, Andrew. 2021. [Biden Administration Policy Tracking Project](https://andygreen-1.github.io/Biden_Administration_Policy_Actions/). 
 
 <br>
 
