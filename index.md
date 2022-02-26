@@ -22,6 +22,8 @@ Actions are grouped by policy category (e.g., COVID-19, economic policy, or immi
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Biden_Administration_Policy_Actions/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '2250' scrolling='no' ></iframe>
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Biden_Administration_Policy_Actions_2022/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '2250' scrolling='no' ></iframe>
+
 The second visualization provides a visual representation of the words that have been used most frequently to describe the administration’s policy actions. The size of each word is determined by the number of times it appears in headlines about policy actions in a given policy category. This means that the same word can appear multiple times if it is used frequently in headlines spanning multiple categories (e.g., “Trump” appears under immigration, foreign policy, COVID-19, and more).
 
 The visualization is dynamic and interactive, allowing you to select/deselect any combination of policy categories, and to adjust the minimum term frequency (e.g., only showing words that appear at least 3 times in headlines about a given policy category).
@@ -100,7 +102,7 @@ Additionally, the project is something that I work on in my free time; it is not
 
 If you'd like to reference the project or use the underlying data in your work, please use the suggested citation below:
 
-Green, Andrew. 2021. [Biden Administration Policy Tracking Project](https://andygreen-1.github.io/Biden_Administration_Policy_Actions/). 
+Green, Andrew, "Biden Administration Policy Tracking Project," 2021-2022, [(https://andygreen-1.github.io/Biden_Administration_Policy_Actions/)](https://andygreen-1.github.io/Biden_Administration_Policy_Actions/). 
 
 <br>
 
